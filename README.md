@@ -18,17 +18,17 @@ $ shasum -a 256 cosmoshub4-2021-02-18.json
 ```
 
 
-**[cosmoshub4-2021-09-27.json.gz](./cosmoshub4-2021-09-27.json.gz)**
+**[cosmoshub4-2021-11-01.json.gz](./cosmoshub4-2021-11-01.json.gz)**
 - exported with gaia v5.0.6
 - cosmosSDK v0.42.9
 
 ```
-gaiad export > cosmoshub4-2021-09-27.json
+gaiad export > cosmoshub4-2021-11-01.json
 ```
 
 ```
-$ shasum -a 256 cosmoshub4-2021-09-27.json
-acf1a777d7940648e5a9e42f34f024fa0c824d72f246e8f2be659d477289fdd7  cosmoshub4-2021-09-27.json
+shasum -a 256 cosmoshub4-2021-11-01.json
+67933944de8f82a17bf1296842814ea82d3cb38ae6b38c7b79577e20496139f8  cosmoshub4-2021-11-01.json
 ```
 
 ```sh
