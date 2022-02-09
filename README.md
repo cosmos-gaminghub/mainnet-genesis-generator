@@ -34,3 +34,10 @@ shasum -a 256 cosmoshub4-2021-11-01.json
 ```sh
 gzip -d cosmoshub4-...json.gz
 ```
+
+## snapshot json
+```
+gzip -d snapshot.json.gz
+shasum -a 256 snapshot.json
+f5b5287c387231191b2b6f12148a1164793a3459eb304b8e9c7846e1d29d6378  snapshot.json
+```
